@@ -97,11 +97,9 @@ The app showcases an end-to-end production-quality architecture:
 
 ## Screenshots
 
-> Drop screenshots into `docs/screenshots/` and reference them here.
-
 | Home | Detail | Favorites | Profile |
 | :--: | :----: | :-------: | :-----: |
-| _coming soon_ | _coming soon_ | _coming soon_ | _coming soon_ |
+| ![Home](docs/screenshots/home.png) | ![Detail](docs/screenshots/detail.png) | ![Favorites](docs/screenshots/favorites.png) | ![Profile](docs/screenshots/profile.png) |
 
 ---
 
@@ -336,18 +334,15 @@ How CineWave satisfies the **Final Project Requirements** rubric:
 
 ## Team
 
-This project was developed as part of the *Cross-Platform Mobile Development*
-final assignment.
+This project was developed as part of the *Cross-Platform Mobile Development* final assignment.
 
 | Name | Role | GitHub |
 | ---- | ---- | ------ |
-| _Member 1_ | _e.g. Architecture & Networking_ | [@username](https://github.com/username) |
-| _Member 2_ | _e.g. UI/UX & Theming_ | [@username](https://github.com/username) |
-| _Member 3_ | _e.g. Persistence & Auth_ | [@username](https://github.com/username) |
+| **Talant** | Architecture & Business Logic | [@Talantt0906](https://github.com/Talantt0906) |
+| **Alisher** | Database & Persistence | [@alisherabushemenov1](https://github.com/alisherabushemenov1) |
+| **Asset** | UI/UX & Theming | [@Set001YT](https://github.com/Set001YT) |
 
-> Replace the placeholders above with your team's actual names, roles, and
-> GitHub handles before submission.
-
+> *All participants contributed equally to the development of the corresponding architectural layers of the application.*
 ---
 
 ## License
