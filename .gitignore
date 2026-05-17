@@ -1,0 +1,60 @@
+# -------------------------------------------------------------------------
+# Flutter & Dart core tools
+# -------------------------------------------------------------------------
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.pub-cache/
+.pub/
+build/
+
+# -------------------------------------------------------------------------
+# Android specific builds and caches
+# -------------------------------------------------------------------------
+android/**/*.iml
+android/.gradle/
+android/local.properties
+android/app/src/main/res/values/strings.xml
+
+# -------------------------------------------------------------------------
+# iOS/macOS specific tools and caches
+# -------------------------------------------------------------------------
+ios/.project
+ios/.symlinks/
+ios/Flutter/Flutter.podspec
+ios/Flutter/Generated.xcconfig
+ios/Flutter/flutter_export_environment.sh
+ios/Pods/
+Icon?
+.DS_Store
+
+# -------------------------------------------------------------------------
+# Environment variables and secrets (CRITICAL FOR SECURITY)
+# -------------------------------------------------------------------------
+.env
+.env.*
+!.env.example
+
+# -------------------------------------------------------------------------
+# Firebase configuration and CLI caches
+# -------------------------------------------------------------------------
+.firebase/
+# Un-comment the lines below if you wish to hide auto-generated Firebase credentials
+# google-services.json
+# GoogleService-Info.plist
+
+# -------------------------------------------------------------------------
+# Local database files (Drift / SQLite development outputs)
+# -------------------------------------------------------------------------
+*.db
+*.sqlite
+
+# -------------------------------------------------------------------------
+# IDEs and Text Editors configuration
+# -------------------------------------------------------------------------
+.idea/
+.vscode/
+*.iml
+*.ipr
+*.iws
